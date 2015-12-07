@@ -1,7 +1,5 @@
 # Otsu Thresholding Android
 
-otsuthresholding-melvincabatuan created by Classroom for GitHub
-
 ## Warning
 
  Note the Gradle plugin is at the experimental stage. The Gradle API for the new component model is not final, which means it'll only work with a specific version of Gradle until the APIs are final.
@@ -174,37 +172,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/ace6c9de05a6cace9218da91920b46e9
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/otsuthresholding-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](screenshot_004.png)](https://youtu.be/VkIddncbkSY)
-
-## Screenshot:
-
-![screenshot1](device-2015-11-22-204718.png)
-
-![screenshot2](device-2015-11-22-205543.png)
-
-"*Programming can be fun, so can cryptography; however they should not be combined.*" -  Kreitzberg and Shneiderman
